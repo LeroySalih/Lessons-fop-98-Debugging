@@ -10,11 +10,3 @@ The aims of this session are to ensure that the system is working and that you a
 * Open the Debugging Assignment in Teams.
 * Open the main.py file.
 * Follow the instructions on the Debugging Assignment.
-
-
-* To test the program, type in the terminal window (at the bottom of the editor)
-
-```bash
-./test.sh
-```
-
